@@ -1,15 +1,20 @@
-# React_Weather_App
+# React Weather App
+
+This application was created in order to study technologies such as React and Tailwind, which ultimately allowed us to strengthen practical knowledge.
+
+### Problem:
+At the moment, the application does not have an <b><i>adaptive layout</b></i> (for mobile devices and tablets), but it will appear soon.
 
 ## Technologies
 
 The main technology stack:
-1. React JS
-2. Tailwind CSS
+1. <b><i>React JS</b></i>
+2. <b><i>Tailwind CSS</b></i>
 
 Additions:
-- React-Unicons
-- React-Toastify
-- Luxon
+- <b><i>React-Unicons:</b></i> https://github.com/Iconscout/react-unicons
+- <b><i>React-Toastify:</b></i> https://github.com/fkhadra/react-toastify
+- <b><i>Luxon:</b></i> https://github.com/moment/luxon
 
 ## Project Description
 
@@ -22,3 +27,7 @@ In addition, it displays information for 5 days with an indication of the time i
 Data on meteorological conditions are obtained through the use of a free API from the website: https://openweathermap.org/api
 
 ## How to use the project
+1. it is necessary to clone this repository
+2. then unzip the project (if zip was selected)
+3. after that, open the vs code development environment, go to the terminal, install dependencies using the npm / yarn package manager
+4. And at the end, run the startup command using the same batch manager
