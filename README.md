@@ -2,6 +2,8 @@
 
 This application was created in order to study technologies such as React and Tailwind, which ultimately allowed us to strengthen practical knowledge.
 
+Link: https://react-weather-app-greystone.netlify.app/
+
 ### Problem:
 At the moment, the application does not have an <b><i>adaptive layout</b></i> (for mobile devices and tablets), but it will appear soon.
 
