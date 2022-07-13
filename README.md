@@ -28,6 +28,8 @@ In addition, it displays information for 5 days with an indication of the time i
 
 Data on meteorological conditions are obtained through the use of a free API from the website: https://openweathermap.org/api
 
+![2022-07-13_20-37-32](https://user-images.githubusercontent.com/61186198/178795928-9d63dce0-e902-4191-aaad-e273e9e57f74.png)
+
 ## How to use the project
 1. it is necessary to clone this repository
 2. then unzip the project (if zip was selected)
